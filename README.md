@@ -16,6 +16,8 @@ Thank you to all of the contributors! You all are pretty epic :D
 <a href="https://github.com/3kh0/ext-remover/graphs/contributors"><img src="https://contrib.rocks/image?repo=3kh0/ext-remover" /></a>
 
 - [EXT-REMOVER](#ext-remover)
+- since im lazy i will a least try to order them
+- 
   * [Securly Kill](#securly-kill)
   * [BR1CK](#br1ck)
   * [BadRecovery](#badrecovery)
@@ -55,6 +57,7 @@ Thank you to all of the contributors! You all are pretty epic :D
   * [SOT Exploit *Open URLs in OneTab*](#sot-exploit-open-urls-in-onetab)
   * [GoGuardian GoAway *GoGuardian bypass*](#goguardian-goaway-goguardian-bypass)
   * [Microsoft Labs](#microsoft-labs-virtualbox-but-it-got-20-doses-of-the-covid-vaccine)
+  
 
 <small><i><a href='http://github.com/3kh0/readme-toc/'>Table of contents generated with readme-toc</a></i></small>
 
