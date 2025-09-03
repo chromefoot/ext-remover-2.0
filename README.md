@@ -1,4 +1,4 @@
-# EXT-REMOVER
+# EXT-REMOVER2.0
 **NOTE: THIS LIST IS VERY OUTDATED AND MISSING A LOT OF STUFF. TO SEE A FULL COLLECTION, JOIN TITANIUM NETWORK <a href="https://discord.gg/unblock">HERE</a>.** <br>
 
 This is a curated list of exploits for ChromeOS. It started with LTBEEF, and now there are more! Some of these exploits can destroy your computer if misused. So PLEASE, PLEASE make sure you follow these instructions very carefully!
